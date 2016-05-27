@@ -12,6 +12,7 @@ public class Q2 {
 		num = s.nextInt();
 		
 		char c = (char)num;
+		System.out.println();
 		
 		System.out.println("Charter is " + c);
 		
